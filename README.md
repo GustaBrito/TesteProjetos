@@ -7,11 +7,11 @@ Um programa simples em Python que verifica se uma palavra ou frase é um palínd
 
 Navegue até a pasta do projeto:
 
-cd verificador-palindromo
+cd TestePalindromo
 
 *Execute o programa:*
 
-python palindromo.py
+python TestePalindromo.py
 
 Digite uma palavra ou frase quando solicitado
 O programa informará se é um palíndromo ou não
